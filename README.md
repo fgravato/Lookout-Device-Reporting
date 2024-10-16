@@ -1,6 +1,6 @@
 # Android and iOS Device and Threat Reporting Tool
 
-This script generates an Excel report of Android and iOS devices and associated threats using the Lookout API. It now includes progress indicators to show the status of various operations.
+This script generates an Excel report of Android and iOS devices and associated threats using the Lookout Mobile Risk API Version 2. It now includes progress indicators to show the status of various operations.
 
 ## Prerequisites
 
